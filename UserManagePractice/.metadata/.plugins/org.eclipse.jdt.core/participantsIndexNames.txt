@@ -1,0 +1,7 @@
+INDEX VERSION 1.126
+F:\java\UserManagePractice\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1193854971.index
+\testProject Maven Webapp\src\main\resources
+F:\java\UserManagePractice\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1253645080.index
+\testProject Maven Webapp\src\main\resources
+F:\java\UserManagePractice\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1007899559.index
+\testProject Maven Webapp\src\main\resources

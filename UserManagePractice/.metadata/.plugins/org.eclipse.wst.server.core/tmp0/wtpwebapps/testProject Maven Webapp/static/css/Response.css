@@ -1,0 +1,93 @@
+@charset "UTF-8";
+
+.carousel-inner img{
+    margin: 0 auto;
+}
+.carousel-control{
+    font-size:200px;
+}
+.tab-h2{
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 1px;
+    color: #0059B2;
+}
+.tab-p{
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 1px;
+    color: #999;
+    margin: 20px 0 40px 0;
+}
+#tab1{
+    margin: 30px 0;
+    color: #666;
+}
+.text-muted{
+    color: #999;
+    text-decoration: line-through;
+}
+.media-heading{
+    margin: 5px 0px 20px 0;
+}
+.col{
+    padding: 20px;
+}
+#footer{
+    text-align: center;
+    background: #666;
+    border-top: 1px solid #ccc;
+    padding: 20px;
+    color: #eee;
+}
+#tab2{
+    background: #eee;
+    padding: 60px 0;
+    text-align: center;
+}
+#tab2 img{
+    width: 40%;
+    height: 40%;
+}
+#tab3{
+    padding: 60px 0;
+    text-align: center;
+}
+#tab3 img{
+    width: 65%;
+    height: 65%;
+}
+body{
+    color: #666;
+}
+.jumbotron{
+    background-image:url("../img/bg.jpg");
+    color: #ccc;
+    margin-top: 50px;
+}
+.jumbotron h1{
+    font-size: 36px;
+    padding: 0 0 0 20px;
+}
+.jumbotron h4{
+    font-size: 18px;
+    padding: 0 0 0 20px;
+}
+#information{
+    background: #eee;
+    padding: 30px 0px 30px 0px;
+}
+.inform-content{
+    background: #fff;
+    margin: 0 0 20px 0;
+    box-shadow: 2px 2px 3px #ccc;
+}
+.inform-content img{
+    margin: 12px 0px;
+}
+.inform-content h4{
+   padding: 2px 0 0 0;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}

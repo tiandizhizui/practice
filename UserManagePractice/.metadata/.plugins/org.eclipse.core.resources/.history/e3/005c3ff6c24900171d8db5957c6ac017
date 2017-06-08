@@ -1,0 +1,10 @@
+package com.ld.service;
+
+import java.util.List;
+
+import com.ld.entity.Resource;
+
+public interface ResourceService {
+	public List<Resource> findResourceByUserId(int id);
+	public List<Resource> findMenueByUserId(int id);
+}

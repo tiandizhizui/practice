@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+ <mapper namespace="com.ld.dao.RoleMapper">
+	<select id="FindRolesByUserName" parameterType="String" resultType="com.ld.entity.Role">
+		SELECT r.r_id as 'id',r.r_name as 'name',r.r_description as 'description' from
+		`user` u INNER JOIN user_role ur
+		on u.u_id = ur.u_id
+		INNER JOIN role r
+		on r.r_id = ur.r_id
+		where u.u_name LIKE '{name}'
+	</select>
+</mapper>

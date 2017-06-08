@@ -1,0 +1,14 @@
+package com.ld.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class UserController {
+	private static final String USER_LIST = "admin/user/UserList";
+	
+	@RequestMapping("/UserList")
+	public String GoToUserList(){
+		return USER_LIST;
+	}
+}

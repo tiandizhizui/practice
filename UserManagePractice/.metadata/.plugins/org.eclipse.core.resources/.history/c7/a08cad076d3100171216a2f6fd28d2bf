@@ -1,0 +1,25 @@
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+	
+	<!-- 取别名 -->
+    <typeAliases> 
+        <!-- <typeAlias alias="User" type="com.yxq.entity.User"/> --> 
+    </typeAliases>
+
+	<environments default="development">
+		<environment id="development">
+			<transactionManager type="JDBC" />
+			<dataSource type="POOLED">
+				<property name="driver" value="com.mysql.jdbc.Driver"/>
+				<property name="url" value="jdbc:mysql://localhost:3306/usermanage?serverTimezone=GMT" />
+				<property name="username" value="root" />
+				<property name="password" value="lin85565335" />
+			</dataSource>
+		</environment>
+	</environments>
+    
+    <mappers>
+       <mapper resource="com/ld/mapper/UserMapper.xml"/>
+    </mappers>
+</configuration>

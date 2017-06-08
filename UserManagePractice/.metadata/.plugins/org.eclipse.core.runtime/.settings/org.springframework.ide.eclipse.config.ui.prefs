@@ -1,0 +1,5 @@
+//com.springsource.config.ui.prefs.activePageIndex\:/testProject\ Maven\ Webapp/src/main/resources/spring/spring-context-mybatis.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/testProject\ Maven\ Webapp/src/main/resources/spring/spring-context-shiro.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/testProject\ Maven\ Webapp/src/main/resources/spring/spring-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/testProject\ Maven\ Webapp/src/main/resources/springmvc/spring-mvc.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<activePage index\="0"/>
+eclipse.preferences.version=1

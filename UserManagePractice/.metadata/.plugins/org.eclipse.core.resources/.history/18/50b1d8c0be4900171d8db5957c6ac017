@@ -1,0 +1,33 @@
+package com.ld.service;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.ld.dao.ResourceMapper;
+import com.ld.entity.Resource;
+
+@Service
+public class ResourceServiceImp implements ResourceService{
+	@Autowired
+	private ResourceMapper resourceDao;
+	
+	public List<Resource> findResourceByUserId(int id) {
+		return resourceDao.FindResourceByUserId(id);
+	}
+
+	public List<Resource> findMenueByUserId(String id) {
+		List<Resource> ResourceList = new ArrayList<Resource>();
+		ResourceList = resourceDao.FindResourceByUserId(Integer.parseInt(id));
+		List<Resource> menueList = new ArrayList<Resource>();
+		for (Resource resource : ResourceList) {
+			if(resource.getType().equals("menue")){
+				menueList.add(resource);
+			}
+		}
+		return menueList;
+	}
+
+}

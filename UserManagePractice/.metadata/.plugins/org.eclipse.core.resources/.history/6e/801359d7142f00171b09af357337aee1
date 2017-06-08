@@ -1,0 +1,18 @@
+package com.ld.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.ld.dao.UserDao;
+import com.ld.entity.User;
+
+public class UserServiceImp implements UserService{
+	
+	@Autowired
+	private UserDao userdao;
+	
+	public User findUserByName(String name) {
+		User user = userdao.findUserByName(name);
+		return user;
+	}
+
+}

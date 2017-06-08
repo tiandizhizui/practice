@@ -1,0 +1,52 @@
+package com.ld.service;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.ld.dao.ResourceMapper;
+import com.ld.entity.MutipleTreeNode;
+import com.ld.entity.Resource;
+
+@Service
+public class ResourceServiceImp implements ResourceService{
+	@Autowired
+	private ResourceMapper resourceDao;
+	
+	public List<Resource> findResourceByUserId(int id) {
+		return resourceDao.FindResourceByUserId(id);
+	}
+
+	public MenueService findMenueByUserId(int id) {
+		/*List<Resource> resources = resourceDao.FindResourceByUserId(id);*/
+		MenueService menues = new MenueService();
+		/*for (Resource resource : resources) {
+			MutipleTreeNode node = new MutipleTreeNode(resource, resource.getId(), resource.getParentId());
+			menues.insert(node);
+		}*/
+		
+		 MutipleTreeNode root = new MutipleTreeNode(new Resource(1,"学生管理"),1,0);
+		 MutipleTreeNode nadd = new MutipleTreeNode(new Resource(2, "学生增加"),2,1);
+		 MutipleTreeNode ntest = new MutipleTreeNode(new Resource(5, "无意义干扰项"),5,1);
+		 MutipleTreeNode ndelete = new MutipleTreeNode(new Resource(3, "学生删除以干扰项为父节点"),3,5);
+		 MutipleTreeNode nroot2 = new MutipleTreeNode(new Resource(6, "资源管理"),6,0);
+		 MutipleTreeNode nresourceadd = new MutipleTreeNode(new Resource(7, "资源增加"),7,6);
+		 MutipleTreeNode nresourcedelete = new MutipleTreeNode(new Resource(8, "资源删除"),8,6);
+		 MutipleTreeNode nupdate = new MutipleTreeNode(new Resource(4, "学生更新"),4,1);
+		 
+		 MenueService list = new MenueService();
+		 list.insert(root);
+		 list.insert(nadd);
+		 list.insert(ndelete);
+		 list.insert(nroot2);
+		 list.insert(nresourceadd);
+		 list.insert(nresourcedelete);
+		 list.insert(nupdate);
+		 list.visite();
+		
+		return menues;
+	}
+
+}

@@ -1,0 +1,42 @@
+$(function(){
+	$("#login").click(function(){
+		var location = (window.location+'').split('/');
+		var location2 = location[1].split(':');
+		var basePath = "http://" + location[2] + "/" + location[3];
+		
+		var name = $("#name").val();
+		var password = $("#password").val();
+		
+		$.ajax({
+			url:basePath + "/System/Login",
+			type:'post',
+			dataType:'json',
+			contentType : "application/json;charset=UTF-8",
+			data : JSON.stringify({
+                name : name,
+                passWord : password
+            }),
+			success:function(result){
+				if(result.success==false){
+					layer.alert(result.message, {icon: 2});
+				}else{
+					layer.alert("登录成功!",{icon:1});
+				}
+			}
+		});
+		
+	/*	$.ajax({
+			url:basePath + "/System/test",
+			type:'post',
+			dataType:'json',
+			contentType : "application/json;charset=UTF-8",
+			data : JSON.stringify({
+                name : "1",
+                passWord : "123"
+            }),
+			success:function(){
+			}
+		});*/
+		
+	})
+})
