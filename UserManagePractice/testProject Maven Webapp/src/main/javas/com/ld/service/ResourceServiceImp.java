@@ -1,7 +1,9 @@
 package com.ld.service;
 
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -27,6 +29,17 @@ public class ResourceServiceImp implements ResourceService{
 			menues.insert(node);
 		}	
 		return menues;
+	}
+
+	public Set<String> findPermissionByUserId(int id) {
+		Set<String> permissions = new HashSet<String>();
+		List<Resource> resources = findResourceByUserId(id);
+		for (Resource resource : resources) {
+			if(resource.getPermission().equals("") == false){
+				permissions.add(resource.getPermission());
+			}
+		}
+		return permissions;
 	}
 
 }

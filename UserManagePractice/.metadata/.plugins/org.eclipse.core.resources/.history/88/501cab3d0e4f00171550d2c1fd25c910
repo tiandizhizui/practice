@@ -1,0 +1,9 @@
+package com.ld.dao;
+
+import java.util.Set;
+
+import com.ld.entity.Role;
+
+public interface RoleMapper {
+	public Set<Role> FindRolesByUserName(String name);
+}

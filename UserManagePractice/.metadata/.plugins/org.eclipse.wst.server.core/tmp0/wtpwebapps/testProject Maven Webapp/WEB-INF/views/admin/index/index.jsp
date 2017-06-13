@@ -21,6 +21,7 @@ SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony
     <!-- //font-awesome icons -->
     <!-- js-->
     <script src="${jsph}/jquery.min.js"></script>
+     <script src="${jsph}/index.js"></script>
     <script src="http://cdn.static.runoob.com/libs/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <!--webfonts-->
     <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,300italic,400italic,700,700italic' rel='stylesheet' type='text/css'>
@@ -236,7 +237,7 @@ SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony
     </div>
     <div class="page-wrapper">
         <div class="main-page">
-			<iframe name="main-frame" height="800px" width="100%" frameborder="0">
+			<iframe id="main-frame" name="main-frame" scrolling="no" marginheight="0"  marginwidth="0" frameborder="0" onload="iFrameHeight();">
 
             </iframe>
         </div>

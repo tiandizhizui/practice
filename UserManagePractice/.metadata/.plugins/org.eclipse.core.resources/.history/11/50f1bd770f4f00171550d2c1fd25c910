@@ -1,0 +1,12 @@
+package com.ld.dao;
+
+import java.util.List;
+import java.util.Set;
+
+import org.springframework.stereotype.Component;
+
+import com.ld.entity.Resource;
+
+public interface ResourceMapper {
+	public Set<Resource> FindResourceByUserId(int id);
+}

@@ -9,6 +9,6 @@
 		on u.u_id = ur.u_id
 		INNER JOIN role r
 		on r.r_id = ur.r_id
-		where u.u_name LIKE '{name}'
+		where u.u_name LIKE #{name}
 	</select>
 </mapper>

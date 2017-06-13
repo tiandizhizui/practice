@@ -7,4 +7,14 @@
 		select u_id as id,u_name as name,u_realname as realName,u_password as passWord,u_img as img
 		from `user` where u_name=#{name}
 	</select>
+	
+	<select id="FindUserByLimite" resultType="com.ld.entity.User">
+		select u_id as id,u_name as name,u_realname as realName,u_password as passWord,u_img as img
+		from `user` LIMIT #{offset},#{limit}
+	</select>
+	
+	<select id="getUserTotalnumber" resultType="int">
+		select count(*) from `user`
+	</select>
+	
 </mapper>

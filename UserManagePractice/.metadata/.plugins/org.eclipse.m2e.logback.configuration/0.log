@@ -2032,3 +2032,239 @@ java.io.InvalidClassException: org.eclipse.m2e.core.internal.project.registry.Ba
 2017-06-08 17:15:27,252 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
 2017-06-08 17:15:27,259 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-06-08 17:15:27,259 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 09:08:55,968 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 09:08:56,010 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 09:08:56,132 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 09:08:56,132 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 09:15:32,397 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 09:15:32,405 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 09:15:32,408 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 09:15:32,408 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 09:17:56,858 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 09:17:56,859 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 09:17:56,861 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 09:17:56,862 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 09:27:04,356 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 09:27:04,357 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 09:27:04,360 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 09:27:04,360 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 09:31:09,883 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 09:31:09,884 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 09:31:09,887 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 09:31:09,887 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 09:34:16,862 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 09:34:16,863 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 09:34:16,866 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 09:34:16,866 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 09:35:51,287 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 09:35:51,288 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 09:35:51,291 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 09:35:51,291 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 09:36:42,192 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 09:36:42,193 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 09:36:42,197 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 09:36:42,197 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 09:37:23,770 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 09:37:23,771 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 09:37:23,774 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 09:37:23,774 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 09:38:10,943 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 09:38:10,946 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 09:38:10,948 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 09:38:10,948 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 09:38:50,534 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 09:38:50,536 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 09:38:50,540 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 09:38:50,540 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 09:40:11,456 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 09:40:11,457 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 09:40:11,460 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 09:40:11,460 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 09:42:57,290 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 09:42:57,291 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 09:42:57,294 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 09:42:57,294 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 10:04:48,879 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 10:04:48,881 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-12 10:04:48,914 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 10:04:48,914 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 10:07:29,788 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 10:07:29,790 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 10:07:29,794 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 10:07:29,794 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 10:09:24,504 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 10:09:24,506 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 10:09:24,511 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 10:09:24,511 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 10:12:45,435 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 10:12:45,436 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 10:12:45,440 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 10:12:45,440 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 10:19:52,106 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 10:19:52,108 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 10:19:52,111 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 10:19:52,111 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 10:24:51,651 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 10:24:51,653 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 10:24:51,656 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 10:24:51,656 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 10:26:56,765 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 10:26:56,767 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 10:26:56,769 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 10:26:56,769 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 10:30:26,927 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 10:30:26,928 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 10:30:26,934 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 10:30:26,934 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 10:45:04,949 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 10:45:04,950 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 10:45:04,953 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 10:45:04,953 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 10:45:12,644 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 10:45:12,645 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-12 10:45:12,655 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 10:45:12,655 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 10:49:20,828 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 10:49:20,829 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 10:49:20,832 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 10:49:20,832 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 10:55:17,425 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 10:55:17,427 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 10:55:17,430 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 10:55:17,431 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 11:03:22,147 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 11:03:22,149 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 11:03:22,159 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 11:03:22,159 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 11:07:23,040 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 11:07:23,041 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 11:07:23,043 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 11:07:23,043 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 11:09:33,943 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 11:09:33,945 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 11:09:33,947 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 11:09:33,947 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 11:10:27,751 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 11:10:27,752 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 11:10:27,755 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 11:10:27,756 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 11:12:09,785 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 11:12:09,786 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-12 11:12:09,788 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 11:12:09,789 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 11:15:17,932 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 11:15:17,934 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 11:15:17,936 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 11:15:17,936 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 11:17:11,567 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 11:17:11,568 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 11:17:11,571 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 11:17:11,572 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 11:18:50,581 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 11:18:50,582 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 11:18:50,585 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 11:18:50,585 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 11:19:01,975 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 11:19:01,976 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 11:19:01,979 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 11:19:01,979 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 11:19:43,577 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 11:19:43,578 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 11:19:43,582 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 11:19:43,582 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 11:26:05,126 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 11:26:05,127 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 11:26:05,131 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 11:26:05,131 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 14:22:38,217 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:22:38,229 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 14:22:38,245 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:22:38,245 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 14:24:58,782 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:24:58,790 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 14:24:58,793 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:24:58,793 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 14:32:05,209 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:32:05,210 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 14:32:05,213 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:32:05,213 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 14:36:31,707 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:36:31,710 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 14:36:31,733 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:36:31,733 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 14:43:12,771 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:43:12,773 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 14:43:12,779 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:43:12,779 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 14:48:37,577 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:48:37,577 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-12 14:48:37,586 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:48:37,586 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 14:49:23,306 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:49:23,307 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 14:49:23,310 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:49:23,310 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 14:50:26,162 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:50:26,164 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-12 14:50:26,169 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:50:26,169 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-12 14:54:24,439 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:54:24,439 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-06-12 14:54:24,445 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-12 14:54:24,445 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-13 09:13:23,353 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-13 09:13:23,403 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-13 09:13:23,522 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-13 09:13:23,522 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-13 09:19:53,030 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-13 09:19:53,040 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-13 09:19:53,044 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-13 09:19:53,044 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-13 09:47:26,093 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-13 09:47:26,093 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-13 09:47:26,094 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-13 09:47:26,094 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-13 09:47:33,579 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-13 09:47:33,580 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-13 09:47:33,582 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-13 09:47:33,582 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-13 09:47:45,027 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-13 09:47:45,028 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-13 09:47:45,030 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-13 09:47:45,030 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-13 09:55:46,733 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-13 09:55:46,736 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-13 09:55:46,740 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-13 09:55:46,740 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-13 09:58:22,866 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-13 09:58:22,868 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-13 09:58:22,872 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-13 09:58:22,872 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-13 10:01:43,137 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-13 10:01:43,139 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-13 10:01:43,144 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-13 10:01:43,144 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-13 10:03:35,868 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-13 10:03:35,870 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-13 10:03:35,873 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-13 10:03:35,873 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-13 10:04:39,068 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-13 10:04:39,071 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 12 resources
+2017-06-13 10:04:39,075 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-13 10:04:39,075 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-13 10:25:37,866 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-13 10:25:37,867 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-13 10:25:37,868 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-13 10:25:37,869 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-13 10:25:52,826 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-13 10:25:52,827 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-13 10:25:52,828 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-13 10:25:52,829 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-13 10:26:31,621 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-13 10:26:31,621 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-13 10:26:31,622 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-13 10:26:31,623 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources
+2017-06-13 10:30:56,268 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-13 10:30:56,268 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-06-13 10:30:56,269 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-13 10:30:56,269 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\java\UserManagePractice\testProject Maven Webapp\src\test\resources

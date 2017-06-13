@@ -1,0 +1,13 @@
+package com.ld.dao;
+
+import java.util.List;
+
+import org.apache.ibatis.annotations.Param;
+
+import com.ld.entity.PageForm;
+import com.ld.entity.User;
+
+public interface UserMapper {
+	public User FindUserByName(String name);
+	public List<User> FindUserByLimite(int offset,int limit);
+}

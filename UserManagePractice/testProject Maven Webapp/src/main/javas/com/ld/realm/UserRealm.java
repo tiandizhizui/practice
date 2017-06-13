@@ -1,6 +1,7 @@
 package com.ld.realm;
 
 import java.util.List;
+import java.util.Set;
 
 import org.apache.shiro.authc.AuthenticationException;
 import org.apache.shiro.authc.AuthenticationInfo;
@@ -8,6 +9,7 @@ import org.apache.shiro.authc.AuthenticationToken;
 import org.apache.shiro.authc.SimpleAuthenticationInfo;
 import org.apache.shiro.authc.UnknownAccountException;
 import org.apache.shiro.authz.AuthorizationInfo;
+import org.apache.shiro.authz.SimpleAuthorizationInfo;
 import org.apache.shiro.realm.AuthorizingRealm;
 import org.apache.shiro.subject.PrincipalCollection;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -33,9 +35,12 @@ public class UserRealm extends AuthorizingRealm {
 	protected AuthorizationInfo doGetAuthorizationInfo(
 			PrincipalCollection principals) {
 		User user = (User)principals.getPrimaryPrincipal();
-		List<Role> roles = roleService.findRolesByUserName(user.getName());
-		List<Resource> resources = resourceService.findResourceByUserId(user.getId());
-		return null;
+		Set<String> roles = roleService.findRolesByUserName(user.getName());
+		Set<String> permissions = resourceService.findPermissionByUserId(user.getId());
+		SimpleAuthorizationInfo authorization = new SimpleAuthorizationInfo();
+		authorization.setRoles(roles);
+		authorization.setStringPermissions(permissions);
+		return authorization;
 	}
 	
 	//验证用户信息

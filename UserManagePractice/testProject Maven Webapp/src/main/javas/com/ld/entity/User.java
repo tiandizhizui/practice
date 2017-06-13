@@ -1,8 +1,9 @@
 package com.ld.entity;
 
+import java.io.Serializable;
 import java.util.List;
 
-public class User {
+public class User implements Serializable{
 	private int id;
 	private String name;
 	private String realName;
